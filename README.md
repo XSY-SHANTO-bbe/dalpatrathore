@@ -1,73 +1,8 @@
-
-<h1><i>Hi there, I'm Dalpat Rathore</i></h1>
-
-I'm a **Next.js Fullstack Software Engineer** focused on building fast, scalable, and reliable web applications using modern frameworks and clean architecture.
-
-I enjoy developing fullstack solutions that are user-friendly, accessible, and easy to maintain — from frontend to backend.
-
-Always learning, always building — with a strong attention to detail and a passion for quality.
-
-<p align="left">
-    <a href="https://dalpatrathore.vercel.app">
-      <img alt="Dalpat Rathore" width="75" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/dalpatrathore.png" />
-    </a>
-  </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dalpatrathore&color=001d3d&style=plastic&label=Github+Profile+Views" alt="Github Profile Views" /> </p>
-
-```mermaid
----
-title: "Development Philosophy Flow"
----
-gitGraph
-    commit id: "Base: Growth Mindset"
-    branch Performance
-    checkout Performance
-    commit id: "Performance-First Mindset"
-    checkout main
-    merge Performance
-
-    branch Code
-    checkout Code
-    commit id: "Code, Maintainable Code"
-    checkout main
-    merge Code
-
-    branch ux
-    checkout ux
-    commit id: "Intuitive UX/UI Patterns"
-    checkout main
-    merge ux
-
-    branch Scalable
-    checkout Scalable
-    commit id: "Scalable Architecture"
-    checkout main
-    merge Scalable
-
-    branch Learning
-    checkout Learning
-    commit id: "Continuous Learning"
-    checkout main
-    merge Learning
-```
-
-```mermaid
-flowchart LR
-
-  %% Mindset to Execution Flow
-  A(Creative mindset) --> B(Problem solving) --> C(Ownership mindset) --> D(Proper execution)
-
-  %% Strategy Flow
-  E(Strategy) --> F(Create like an Artist) --> G(Solve like an Engineer) --> H(Act like an Entrepreneur)
-
-  %% Execution Flow
-  I(Execution) --> J(Make it Work) --> K(Make it Right) --> L(Make it Fast)
-
-```
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills Stack & Dev Tools:</i></h2>
+<h1 align="center"><img 
+ <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> 𝗦𝗛𝗔𝗡𝗧𝗢 𝗦𝗞𝗜𝗟𝗟𝗔 𝗦𝗧𝗔𝗖𝗞 & 𝗗𝗘𝗕 𝗧𝗢𝗢𝗟𝗫 𝗞𝗜𝗡𝗚 𝗢𝗙 𝗩𝗜𝗥𝗧𝗨𝗔𝗟 𝗢𝗞𝗛 𝗕𝗬𝗘:</i></h2>
 
 <!-- ─── Front‑End ───────────────────────────────────────────────────────────── -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![ONLINE README KING SHANTO OKH BYE](https://img.shields.io/badge/ONLINE!AR!README!KING!SHANTO-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
@@ -97,7 +32,7 @@ flowchart LR
 ![Strapi CMS](https://img.shields.io/badge/Strapi_CMS-8E75FF?style=plastic&logo=strapi&logoColor=white)
 
 <!-- ─── Dev Ops / Utilities ─────────────────────────────────────────────────── -->
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![Shanto](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
@@ -107,25 +42,68 @@ flowchart LR
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)                    
+>
+<h1 align="center"><img 
+ <h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png"-E34F26? /><i> 𝗦𝗛𝗔𝗡𝗧𝗢-𝗕𝗢𝗧 - 𝗬𝗢𝗨𝗥 𝗔𝗟𝗜𝗦𝗛𝗔  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<!-- Github README -->
+<img src="https://files.catbox.moe/fbas8z.jpg"
+<p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
-<h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats:</i></h2>
+</i></b></h3>
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<table border="0">
-  <tr>
-    <td valign="top"><a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=DalpatRathore&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Dalpat Rathore's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalpatRathore&layout=compact&langs_count=10&hide_border=true" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=dalpatrathore&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Dalpat Rathore's GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
 
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph:</i></h2>
 
-[![Dalpat Rathore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DalpatRathore&theme=rogue&line=f4791f&point=461220)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙸𝙽𝙽𝙾𝙲𝙴𝙽𝚃+𝙱𝙾𝚈;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙹𝚄𝚂𝚃+𝙰+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'R+A+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅e+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/rocky-bot-320"><img width=550 src="https://github-profile-trophy.vercel.app/?username=𝐘𝐎𝐔𝐑 𝐑𝐎𝐂𝐊𝐘 &theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+</p>
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/your rocky 320/count.svg" alt="Visitors">
+</p>
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
+<h3 align="center">A Passionate Frontend Developer From Bangladesh SHANTO</h3>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗡𝗔𝗠𝗘      : 𝗦𝗛𝗔𝗡𝗧𝗢
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪  𝗥𝗘𝗟𝗜𝗚𝗜𝗢𝗡   : 𝗜𝗦𝗟𝗔𝗠
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡 :- 𝗦𝗧𝗨𝗗𝗬
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗥𝗘𝗟𝗔𝗧𝗜𝗢𝗡𝗦𝗛𝗜𝗣 :- 𝗦𝗜𝗡𝗚𝗟𝗘
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗦𝗛𝗔𝗡𝗧𝗢 𝗔𝗛𝗠𝗘𝗗](https://www.facebook.com/profile.php?id=100089927607228)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝗟𝗬𝗥𝗜𝗫 𝗦𝗛𝗔𝗡𝗧𝗢](https://www.instagram.com/shanto_lyrics_1.0?igsh=MXdzcWo3Y3lqZ2d1cQ==)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+<h3><b><i> Contact me in Touch :</i></b></h3>
+<a href="https://github.com/rocky-bot-320"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
+<a href="https://fb.com/bd.king.riyaz.top.voicer.420"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
+<a href="https://www.instagram.com/rocky404bot4
+_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
